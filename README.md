@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Gladis
-- :lungs:  I’m interested in Medical Imaging & Data Science in this field
-- 💼 I'm currently in R&D internship at Avicenna.ai
-- 🌱 I’m currently learning Data Analysis with Open Class Rooms & Data Science with Data Scientest
+- :lungs:  I’m interested in Medical Imaging & Data Science
+- 👀 I am looking for an internship in Data Science in the field of Medical Imaging
+- 🌱 I’m currently learning Data Science with Data Scientest
+- 💼 I did an R&D internship at Avicenna.ai
 - 🏥 I worked for 4 years as a radiology technologist in the Montpellier Cancer Institute 
+- 👩🏻‍🎓 I just finished my Data Analyst training with Open Class Rooms 
 - 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/gladis-valenzuela/)
